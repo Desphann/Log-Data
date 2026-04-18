@@ -1,0 +1,12 @@
+[System]
+Platform=SEANO USV
+Start_Time=2026-04-18 19:38:02
+Timezone=WIB
+
+[Sensor]
+Name=GPS
+
+[Columns]
+Timestamp(WIB)	Latitude	Longitude	Altitude
+
+[Data]

@@ -1,0 +1,12 @@
+[System]
+Platform=SEANO USV
+Start_Time=2026-04-18 19:40:07
+Timezone=WIB
+
+[Sensor]
+Name=Battery
+
+[Columns]
+Timestamp(WIB)	Voltage	Current	Percentage
+
+[Data]

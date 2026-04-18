@@ -1,0 +1,12 @@
+[System]
+Platform=SEANO USV
+Start_Time=2026-04-18 19:11:20
+Timezone=WIB
+
+[Sensor]
+Name=IMU
+
+[Columns]
+Timestamp(WIB)	AccX	AccY	AccZ
+
+[Data]

@@ -1,0 +1,15 @@
+[System]
+Platform=SEANO USV
+Start_Time=2026-04-18 20:26:53
+Timezone=WIB
+
+[Sensor]
+Name=SBES
+
+[Columns]
+Timestamp(WIB)	Depth	WaterTemp	QualityFlag
+
+[Data]
+2026-04-18 20:26:57.963	12.738	28.03	1.0
+2026-04-18 20:26:58.960	12.836	28.073	1.0
+2026-04-18 20:26:59.960	13.016	28.072	1.0
